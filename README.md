@@ -18,7 +18,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaanand05" alt="adityaanand05" /></a> </p>
 
 💡 About Me
-I'm a second-year engineering student passionate about solving real-world problems through AI and data-driven solutions. I enjoy working on projects that blend machine learning, deep learning, and software engineering.
+
+  I'm a second-year engineering student passionate about solving real-world problems through AI and data-driven solutions. 
+  I enjoy working on projects that blend machine learning, deep learning, and software  engineering.
 
 - 🔭 I’m currently working on an **AI recommendation system using PyTorch.**
 
