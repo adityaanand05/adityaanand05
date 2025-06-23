@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityaanand05" alt="adityaanand05" /></a> </p>
 
-- 🔭 I’m currently working on **Ai, Ml, Ds, Python & C++ projects.**
+- 🔭 I’m currently working on **Ai recommendation system using PyTorch.**
+  
+- 🔭 I’m having working experince on **Ai, Ml, Ds, Python & C++ projects.**
 
 - 🌱 I’m currently learning **AI, ML & DS**
 
