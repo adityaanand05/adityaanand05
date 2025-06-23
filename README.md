@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Ai recommendation system using PyTorch.**
   
-- 🧠 I’m having working experince on **Ai, Ml, Ds, Python & C++ projects.**
+- 🧠 I’m having project experince on **Ai, Ml, Ds, Python & C++ projects.**
 
 - 🌱 I’m currently learning **AI, ML & DS**
 
