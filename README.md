@@ -34,7 +34,7 @@
 
 
 ---
-<h3 align="center">Languages I am Good at:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="60" alt="python logo"  />
   <img width="12" />
