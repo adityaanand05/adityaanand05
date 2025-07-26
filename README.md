@@ -59,9 +59,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityaanand05&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="200"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=adityaanand05&show_icons=true&locale=en&theme=default" alt="GitHub Stats" height="200"/>
+  <a href="https://github.com/adityaanand05/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaanand05&layout=donut&theme=tokyonight" alt="Top Langs" />
+  </a>
+  <br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=adityaanand05&show_icons=true&theme=tokyonight" alt="Aditya's GitHub stats">
   <br/>
   <img src="https://streak-stats.demolab.com/?user=adityaanand05&theme=tokyonight" alt="GitHub Streak Stats" height="200"/>
 </div>
