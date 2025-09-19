@@ -21,7 +21,7 @@
 
 - 🌱 Currently diving deeper into **Reinforcement Learning** and **Large Language Models**
 
-- 👨‍💻 View all my projects at [My Portfolio](https://adityaanand06.github.io/Portfolio/)
+- 👨‍💻 View all my projects at [My Portfolio](https://adityaanandportfolio.web.app)
 
 - 📫 How to reach me **aditya19connect@gmail.com**
 ---
