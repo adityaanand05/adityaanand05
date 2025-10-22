@@ -64,6 +64,20 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="60" alt="postgresql logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" height="60" alt="crewai logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=micorsoft&logoColor=white" height="60" alt="autogen logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white&style=for-the-badge" height="40" alt="centos logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/openSUSE-73BA25?logo=opensuse&logoColor=black&style=for-the-badge" height="40" alt="opensuse logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="60" alt="ubuntu logo"  />
 </div>
 
