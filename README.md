@@ -19,7 +19,7 @@
 <a href="https://x.com/study21063">
   <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="mailto:aditya19connect@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&to=aditya19connect@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://adityaanandportfolio.web.app">
@@ -155,7 +155,7 @@
 
 ## 💬 Today's Motivation
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The+only+way+to+do+great+work+is+to+love+what+you+do&author=Steve+Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -173,7 +173,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adityaanand05)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/Say%20Hello-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditya19connect@gmail.com)
+[![Gmail](https://img.shields.io/badge/Say%20Hello-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=aditya19connect@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/See%20My%20Work-Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://adityaanandportfolio.web.app)
 
