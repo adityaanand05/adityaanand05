@@ -42,6 +42,18 @@
 </div>
 
 ```bash
+╔═══════════════════════════════════════════════════════════════╗
+║         INITIALIZING SECURE CONNECTION...                     ║
+║         ENCRYPTING CHANNEL... ██████████ DONE                 ║
+║         IDENTITY VERIFICATION... PASSED ✓                     ║
+╚═══════════════════════════════════════════════════════════════╝
+
+[BOOT]  Kernel loaded.............................................. OK
+[BOOT]  Mounting /earth/india...................................... OK
+[BOOT]  Loading personality modules............................... OK
+[BOOT]  WARNING: Dangerous levels of caffeine detected ☕......... OK
+[BOOT]  Starting user session...................................... OK
+
 ┌──(aditya㉿universe)─[~/earth/india]
 └─$ cat about_me.txt
 
@@ -52,23 +64,47 @@
   ██║  ██║██████╗ ██╔╝   ██║      ██║   ██║  ██║
   ╚═╝  ╚═╝╚═════╝╚═╝    ╚═╝      ╚═╝   ╚═╝  ╚═╝
 
-  Name     : Aditya Anand
-  Status   : 2nd Year Engineering Student 🎓
-  Location : India 🇮🇳
-  Mission  : Build AI that actually matters 🤖
-  Mode     : [ GRIND MODE: ON ] 🔥
-  Fuel     : ☕ × ∞
+  ┌─────────────────────────────────────────────────────┐
+  │  > DECRYPTING PROFILE...                            │
+  │                                                     │
+  │  NAME        ::  Aditya Anand                       │
+  │  ROLE        ::  AI & Data Science Engineer         │
+  │  CLASS       ::  B.Tech '28 · NSEC, Kolkata         │
+  │  LOCATION    ::  /earth/india 🇮🇳                    │
+  │  CORE        ::  AI Systems · Security · Backend    │
+  │  STATUS      ::  [ACTIVE] Open to Opportunities      │
+  │  CLEARANCE   ::  WoC 5.0 Contributor 🔥             │
+  │                                                     │
+  │  > PROFILE LOADED SUCCESSFULLY_                     │
+  └─────────────────────────────────────────────────────┘
 
 ┌──(aditya㉿universe)─[~/earth/india]
-└─$ ./current_projects.sh
+└─$ sudo ./scan_projects.sh --verbose
 
-  [+] AI Recommendation System  ████████░░  80% (PyTorch)
-  [+] Exploring LLMs            ██████░░░░  60%
-  [+] Reinforcement Learning    ████░░░░░░  40%
-  [+] Getting Internship        ██████████  EXECUTING... 🚀
+  [SCANNING ACTIVE OPERATIONS...]
+
+  [OP-01] QubesMail — AI Secure Email Client
+          ├─ Stack   : Flask · Phishing Detection · Link Isolation
+          ├─ Progress: █████████░  90%
+          └─ Status  : DEPLOYING...
+
+  [OP-02] WoC 5.0 — Open Source Contribution
+          ├─ Repo    : vacanza/holidays (PSF)
+          ├─ Progress: ████████░░  85%
+          └─ Status  : MERGING...
+
+  [2/2 OPERATIONS ACTIVE] [0 COMPROMISED] [THREAT LEVEL: ZERO]
 
 ┌──(aditya㉿universe)─[~/earth/india]
-└─$ echo "Open to: AI · ML · Data Science Internships 👇"
+└─$ whoami --full
+
+  > ACCESS GRANTED. IDENTITY CONFIRMED.
+  > SEEKING : AI · ML · Backend · Security · Open Source Roles
+  > MOTIVE  : Build systems that actually matter.
+  > CONTACT : github.com/adityaanand05
+
+┌──(aditya㉿universe)─[~/earth/india]
+└─$ █
 ```
 
 ---
