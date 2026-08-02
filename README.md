@@ -1,8 +1,6 @@
 # Aditya Anand
 
-Systems Engineer · Rust · Agentic AI
-B.Tech CSE (AI & DS), NSEC Kolkata, 2028
-Open to internships
+a simple software engineer
 
 [LinkedIn](https://linkedin.com/in/adityaanand-tech) · [Email](mailto:aditya.anand.sys@gmail.com) · [Portfolio](https://adityaanandportfolio.web.app)
 
@@ -15,4 +13,8 @@ Open to internships
 
 ## Stack
 
-Rust, Python, C++, C · Linux, Git, Docker · CrewAI, Rayon, Ratatui
+Rust, Python, C++, C · Linux, Git, Docker
+
+---
+
+Always building, always learning.
